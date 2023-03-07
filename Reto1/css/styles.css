@@ -5,7 +5,6 @@
 
 .titulo{
     text-align: center;
-    margin-top: 10px;
     width: auto;
     padding: 30PX;
     background: #5A3954;
@@ -14,7 +13,7 @@
 
 .main{
     background-color: #033442 ;
-    padding: auto;
+    padding: 60px;
     text-align: center;
 }
 
@@ -23,46 +22,42 @@ section{
     display: inline-block;
 }
 
-
 .acuerdo1 h2{
-    padding: 10px;
     color: #ffffff;
-    width: 49%;
+    margin-bottom: 15px;
 }
 
 .acuerdo1 p{
     background-color: #048C8A;
-    padding: 20px;
+    padding: 15px;
     border-radius: 20px;
-    width: 49%;
+    width: 93%;
 }
 
 .acuerdo2 h2{
-    padding: 10px;
+    margin-bottom: 15px;
     color: #ffffff;
 }
 
 .acuerdo2 p{
     background-color: #048C8A;
-    padding: 20px;
+    padding: 15px;
     border-radius: 20px;
-    width: 49%;
+    width: 96%;
+    margin-left: 15px;
        
 }
-
 .acuerdo3 h2{
     padding: 10px;
     color: #ffffff;
-    width: 49%;
-    
+    margin-top: 100px;  
 }
 
 .acuerdo3 p{
     background-color: #048C8A;
-    padding: 20px;
+    padding: 15px;
     border-radius: 20px;
-    width: 49%;
-       
+    width: 93%;  
 }
 
 .acuerdo4 h2{
@@ -74,7 +69,9 @@ section{
 
 .acuerdo4 p{
     background-color: #048C8A;
-    padding: 20px;
+    padding: 15px;
     border-radius: 20px;
-    width: 49%;      
-}
+    width: 96%;
+    margin-left: 15px;
+}  
+
