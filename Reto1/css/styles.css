@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;  
+}
+
+.titulo{
+    text-align: center;
+    margin-top: 10px;
+    width: auto;
+    padding: 30PX;
+    background: #5A3954;
+    color: #ffffff;
+}
+
+.main{
+    background-color: #033442 ;
+    padding: auto;
+    text-align: center;
+}
+
+section{
+    width: 49%;
+    display: inline-block;
+}
+
+
+.acuerdo1 h2{
+    padding: 10px;
+    color: #ffffff;
+    width: 49%;
+}
+
+.acuerdo1 p{
+    background-color: #048C8A;
+    padding: 20px;
+    border-radius: 20px;
+    width: 49%;
+}
+
+.acuerdo2 h2{
+    padding: 10px;
+    color: #ffffff;
+}
+
+.acuerdo2 p{
+    background-color: #048C8A;
+    padding: 20px;
+    border-radius: 20px;
+    width: 49%;
+       
+}
+
+.acuerdo3 h2{
+    padding: 10px;
+    color: #ffffff;
+    width: 49%;
+    
+}
+
+.acuerdo3 p{
+    background-color: #048C8A;
+    padding: 20px;
+    border-radius: 20px;
+    width: 49%;
+       
+}
+
+.acuerdo4 h2{
+    padding: 10px;
+    color: #ffffff;
+
+    
+}
+
+.acuerdo4 p{
+    background-color: #048C8A;
+    padding: 20px;
+    border-radius: 20px;
+    width: 49%;      
+}
